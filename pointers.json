@@ -1,5 +1,24 @@
 {
-  "pointers":[
-    {"key":"game__latest_version","value":"1.49"},
-    {"key":"daily_level__url","value":"https://gregsharp-app.github.io/Lamsa/daily_level.txt"}
-  ]}
+  "pointers": [
+    {
+      "key": "game__latest_version",
+      "value": "1.49"
+    },
+    {
+      "key": "featured_game__title",
+      "value": "قولة، لعبة حكمة و دهاء"
+    },
+    {
+      "key": "featured_game__description",
+      "value": "اول اصدار من لعبة قولة\nأكثر من 555 مثل و حكمة و مقولة"
+    },
+    {
+      "key": "featured_game__url",
+      "value": "https://play.google.com/store/apps/details?id=com.renlong.qawla"
+    },
+    {
+      "key": "featured_game__is_shown",
+      "value": false
+    }
+  ]
+}
