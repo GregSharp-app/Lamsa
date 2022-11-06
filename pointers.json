@@ -16,6 +16,11 @@
       "key": "featured_game__url",
       "value": "https://play.google.com/store/apps/details?id=com.renlong.qawla"
     },
+    ,
+    {
+      "key": "featured_game_icon__url",
+      "value": ""
+    }
     {
       "key": "featured_game__is_shown",
       "value": true
