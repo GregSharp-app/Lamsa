@@ -22,7 +22,7 @@
     },
     {
       "key": "featured_game__is_shown",
-      "value": false
+      "value": true
     }
   ]
 }
