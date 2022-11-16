@@ -10,7 +10,7 @@
     },
     {
       "key": "featured_game__description",
-      "value": "اول اصدار من لعبة قولة\nأكثر من 555 مثل و حكمة و مقولة"
+      "value": ".أقوال و حكم قيلت عبر الأزمان \nقم باختبار مدى معرفتك بها"
     },
     {
       "key": "featured_game__url",
@@ -22,7 +22,7 @@
     },
     {
       "key": "featured_game__is_shown",
-      "value": false
+      "value": true
     }
   ]
 }
